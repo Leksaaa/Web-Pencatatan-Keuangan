@@ -1,0 +1,9 @@
+crud kategori ada di kategoricontroller
+
+update delete (admin) ada di Postcontroller
+karena di arahkan ke index yaitu 'transaksi/admin
+
+create (user) ada di post1controller 
+karena diarahkan ke index yaitu 'transaksi/user'
+
+itulah sebabnya crud transaksi tidak bisa dijadikan satu
